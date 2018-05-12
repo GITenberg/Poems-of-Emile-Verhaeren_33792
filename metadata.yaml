@@ -1,0 +1,44 @@
+_repo: Poems-of-Emile-Verhaeren_33792
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sargent, John Singer
+    alias: Sargent, John S.
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '36606'
+    url: http://www.gutenberg.org/2009/agents/36606
+  translator:
+    agent_name: Strettell, Alma
+    gutenberg_agent_id: '36607'
+    url: http://www.gutenberg.org/2009/agents/36607
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verhaeren, Emile
+    aliases:
+    - Verhaeren, Émile
+    - Verhaeren, Emile
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '3287'
+    url: http://www.gutenberg.org/2009/agents/3287
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Emile_Verhaeren
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
+description: ''
+gutenberg_issued: '2010-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Belgian poetry (French) -- Translations into English'
+- !lcc 'PQ'
+title: Poems of Emile Verhaeren
+url: http://www.gutenberg.org/ebooks/33792
