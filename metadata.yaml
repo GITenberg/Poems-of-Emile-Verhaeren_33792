@@ -29,6 +29,8 @@ creator:
     - http://en.wikipedia.org/wiki/Emile_Verhaeren
     - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33792#Poems-of-Emile-Verhaeren
 gutenberg_issued: '2010-09-21'
 gutenberg_type: Text
 identifiers:
